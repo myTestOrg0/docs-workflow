@@ -35,7 +35,9 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "rehype-katex": "^7.0.1",
-    "remark-math": "^6.0.0"
+    "remark-math": "^6.0.0",
+    "bcrypt": "6.0.0",
+    "deasync": "0.1.31"
   },
   "browserslist": {
     "production": [
